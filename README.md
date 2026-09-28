@@ -1,9 +1,13 @@
 # MVP: Pipeline de Dados na Nuvem — Análise da Importação de Petróleo Bruto no Brasil (2015–2025)
 
 **Aluno:** Cássio Nascimento Ponte
+
 **Curso:** Pós-Graduação Ciência de Dados
+
 **Disciplina:** Engenharia de Dados
+
 **Plataforma de Nuvem:** Databricks Free Edition (Community Cloud)  
+
 **Repositório:** [GitHub - Pipeline de Petróleo](https://github.com/cnponte/mvp-constru-ao-pipeline-de-dados-na-nuvem-petroleo)
 
 ---
